@@ -1,0 +1,323 @@
+{
+  "heroes": [
+    {
+      "name": "Paragon",
+      "faction": "League",
+      "rarity": "Mythic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Paragon"
+    },
+    {
+      "name": "Bishop",
+      "faction": "League",
+      "rarity": "Mythic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Bishop"
+    },
+    {
+      "name": "Rose Princess",
+      "faction": "League",
+      "rarity": "Mythic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Rose_Princess"
+    },
+    {
+      "name": "Astrologer",
+      "faction": "League",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Astrologer"
+    },
+    {
+      "name": "Adjudicator",
+      "faction": "League",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Adjudicator"
+    },
+    {
+      "name": "Bard",
+      "faction": "League",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Bard"
+    },
+    {
+      "name": "Hostess",
+      "faction": "League",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Hostess"
+    },
+    {
+      "name": "Secret Keeper",
+      "faction": "League",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Secret_Keeper"
+    },
+    {
+      "name": "Pyromancer",
+      "faction": "League",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Pyromancer"
+    },
+    {
+      "name": "Nun",
+      "faction": "League",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Nun"
+    },
+    {
+      "name": "Knight",
+      "faction": "League",
+      "rarity": "Epic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Knight"
+    },
+    {
+      "name": "Minister",
+      "faction": "League",
+      "rarity": "Epic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Minister"
+    },
+    {
+      "name": "Ranger",
+      "faction": "League",
+      "rarity": "Epic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Ranger"
+    },
+    {
+      "name": "Warrior",
+      "faction": "League",
+      "rarity": "Rare",
+      "wiki": "https://topheroes1.fandom.com/wiki/Warrior"
+    },
+    {
+      "name": "Wizard",
+      "faction": "League",
+      "rarity": "Rare",
+      "wiki": "https://topheroes1.fandom.com/wiki/Wizard"
+    },
+    {
+      "name": "Monk",
+      "faction": "Nature",
+      "rarity": "Mythic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Monk"
+    },
+    {
+      "name": "Tidecaller",
+      "faction": "Nature",
+      "rarity": "Mythic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Tidecaller"
+    },
+    {
+      "name": "Druid",
+      "faction": "Nature",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Druid"
+    },
+    {
+      "name": "Forest Maiden",
+      "faction": "Nature",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Forest_Maiden"
+    },
+    {
+      "name": "Pathfinder",
+      "faction": "Nature",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Pathfinder"
+    },
+    {
+      "name": "Pixie",
+      "faction": "Nature",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Pixie"
+    },
+    {
+      "name": "Sage",
+      "faction": "Nature",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Sage"
+    },
+    {
+      "name": "Stonemanson",
+      "faction": "Nature",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Stonemanson"
+    },
+    {
+      "name": "Treeguard",
+      "faction": "Nature",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Treeguard"
+    },
+    {
+      "name": "Watcher",
+      "faction": "Nature",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Watcher"
+    },
+    {
+      "name": "Windwalker",
+      "faction": "Nature",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Windwalker"
+    },
+    {
+      "name": "Dancer",
+      "faction": "Nature",
+      "rarity": "Epic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Dancer"
+    },
+    {
+      "name": "Priestess",
+      "faction": "Nature",
+      "rarity": "Epic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Priestess"
+    },
+    {
+      "name": "Archer",
+      "faction": "Nature",
+      "rarity": "Rare",
+      "wiki": "https://topheroes1.fandom.com/wiki/Archer"
+    },
+    {
+      "name": "Pharmacist",
+      "faction": "Nature",
+      "rarity": "Rare",
+      "wiki": "https://topheroes1.fandom.com/wiki/Pharmacist"
+    },
+    {
+      "name": "Desert Prince",
+      "faction": "Horde",
+      "rarity": "Mythic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Desert_Prince"
+    },
+    {
+      "name": "Storm Maiden",
+      "faction": "Horde",
+      "rarity": "Mythic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Storm_Maiden"
+    },
+    {
+      "name": "Witch",
+      "faction": "Horde",
+      "rarity": "Mythic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Witch"
+    },
+    {
+      "name": "Barbarian",
+      "faction": "Horde",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Barbarian"
+    },
+    {
+      "name": "Headhunter",
+      "faction": "Horde",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Headhunter"
+    },
+    {
+      "name": "Shaman",
+      "faction": "Horde",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Shaman"
+    },
+    {
+      "name": "Soulmancer",
+      "faction": "Horde",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Soulmancer"
+    },
+    {
+      "name": "Swordmaster",
+      "faction": "Horde",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Swordmaster"
+    },
+    {
+      "name": "Warlock",
+      "faction": "Horde",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Warlock"
+    },
+    {
+      "name": "Wilderness Hunter",
+      "faction": "Horde",
+      "rarity": "Legendary",
+      "wiki": "https://topheroes1.fandom.com/wiki/Wilderness_Hunter"
+    },
+    {
+      "name": "Outlaw",
+      "faction": "Horde",
+      "rarity": "Epic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Outlaw"
+    },
+    {
+      "name": "Rogue",
+      "faction": "Horde",
+      "rarity": "Epic",
+      "wiki": "https://topheroes1.fandom.com/wiki/Rogue"
+    },
+    {
+      "name": "Blacksmith",
+      "faction": "Horde",
+      "rarity": "Rare",
+      "wiki": "https://topheroes1.fandom.com/wiki/Blacksmith"
+    },
+    {
+      "name": "Guard",
+      "faction": "Horde",
+      "rarity": "Rare",
+      "wiki": "https://topheroes1.fandom.com/wiki/Guard"
+    }
+  ],
+  "upgrade_tables": {
+    "star_upgrade": {
+      "headers": ["Star", "Rare", "Epic", "Legendary", "Mythic"],
+      "data": [
+        {"star": 1, "rare_per_step": 1, "rare_total": 5, "epic_per_step": 1, "epic_total": 5, "legendary_per_step": 1, "legendary_total": 5, "mythic_per_step": 2, "mythic_total": 10},
+        {"star": 2, "rare_per_step": 1, "rare_total": 5, "epic_per_step": 1, "epic_total": 5, "legendary_per_step": 1, "legendary_total": 5, "mythic_per_step": 2, "mythic_total": 10},
+        {"star": 3, "rare_per_step": 2, "rare_total": 10, "epic_per_step": 2, "epic_total": 10, "legendary_per_step": 2, "legendary_total": 10, "mythic_per_step": 4, "mythic_total": 20},
+        {"star": 4, "rare_per_step": 2, "rare_total": 10, "epic_per_step": 2, "epic_total": 10, "legendary_per_step": 2, "legendary_total": 10, "mythic_per_step": 4, "mythic_total": 20},
+        {"star": 5, "epic_per_step": 4, "epic_total": 20, "legendary_per_step": 4, "legendary_total": 20, "mythic_per_step": 8, "mythic_total": 40}
+      ],
+      "overall_totals": {"rare": 500, "epic": 500, "legendary": 500, "mythic": 1000}
+    },
+    "tier_upgrade": [
+      {"tier": 0, "level": 0, "shards": 5, "soul_stones": 1},
+      {"tier": 0, "level": 1, "shards": 5},
+      {"tier": 0, "level": 2, "shards": 10},
+      {"tier": 0, "level": 3, "shards": 10},
+      {"tier": 0, "level": 4, "shards": 10},
+      {"tier": 0, "level": 5, "shards": 15},
+      {"tier": 1, "subtotal": 55},
+      {"tier": 2, "level": 0, "shards": 15, "soul_stones": 2},
+      {"tier": 2, "level": 1, "shards": 15},
+      {"tier": 2, "level": 2, "shards": 15},
+      {"tier": 2, "level": 3, "shards": 15},
+      {"tier": 2, "level": 4, "shards": 20},
+      {"tier": 2, "level": 5, "shards": 20},
+      {"tier": 2, "subtotal": 100},
+      {"tier": 3, "level": 0, "shards": 20, "soul_stones": 2},
+      {"tier": 3, "level": 1, "shards": 20},
+      {"tier": 3, "level": 2, "shards": 20},
+      {"tier": 3, "level": 3, "shards": 30},
+      {"tier": 3, "level": 4, "shards": 30},
+      {"tier": 3, "level": 5, "shards": 30},
+      {"tier": 3, "subtotal": 150},
+      {"tier": 4, "shards": 40, "soul_stones": 4},
+      {"total_shards": 345, "total_soul_stones": 9}
+    ],
+    "skill_upgrade_cost": [
+      {"level": 1, "cost": 0},
+      {"level": 2, "cost": 100},
+      {"level": 3, "cost": 200},
+      {"level": 4, "cost": 400},
+      {"level": 5, "cost": 600},
+      {"level": 6, "cost": 800},
+      {"level": 7, "cost": 1100},
+      {"level": 8, "cost": 1400},
+      {"level": 9, "cost": 1700},
+      {"level": 10, "cost": 2000},
+      {"level": 11, "cost": 2200},
+      {"level": 12, "cost": 2700},
+      {"level": 13, "cost": 3200},
+      {"level": 14, "cost": 3900},
+      {"level": 15, "cost": 4700}
+    ]
+  }
+}
